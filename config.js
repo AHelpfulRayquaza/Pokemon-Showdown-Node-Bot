@@ -13,7 +13,7 @@
 
 exports.server = 'aurastorm';
 
-exports.port = 8080;
+exports.port = 8000;
 
 exports.serverid = 'blueflare.scalingo.io';
 
