@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = '';
+exports.nick = 'CoolBots';
 
-exports.pass = '';
+exports.pass = '12345';
 
 exports.autoReloginDelay = 60 * 1000;
 
