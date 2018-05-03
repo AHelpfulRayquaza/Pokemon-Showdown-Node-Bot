@@ -11,11 +11,11 @@
 *
 */
 
-exports.server = 'skytower';
+exports.server = 'aurastorm';
 
 exports.port = 8080;
 
-exports.serverid = 'psserverskytower-ahelpfulrayquaza.c9users.io:8080';
+exports.serverid = 'blueflare.scalingo.io';
 
 exports.autoReconnectDelay = 10 * 1000;
 exports.connectionTimeout = 2 * 60 * 1000;
